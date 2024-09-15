@@ -1,0 +1,108 @@
+html {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aliceblue;
+}
+
+.container {
+    background-color: #ecf1f1;
+    max-width: 1100px;
+    padding: 20px 50px;
+    margin: 50px auto;
+    position: relative;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.header {
+    text-align: center;
+}
+
+.main-title {
+    font-size: 35px;
+}
+
+.main-paragraph {
+    font-size: 15px;
+}
+
+.featured_image {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.featured_image img {
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.introduction-container {
+    padding: 15px 0;
+    border-top: 4px solid aliceblue;
+    border-bottom: 4px solid aliceblue;
+}
+
+.sinopse-container {
+    padding: 15px 15px;
+}
+
+.quotes-container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.patrick-container {
+    border-top: 4px solid aliceblue;
+    border-bottom: 4px solid aliceblue;
+}
+
+.patrick-2-container {
+    padding: 1px;
+    margin: 1px;
+    border: 1px;
+}
+
+.patrick-2-container p {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.patrick-2-container img {
+    width: 100px;
+    border: 4px solid #fff;
+    border-radius: 20px;
+
+}
+
+.image {
+    margin: 5px;
+    top: 1400px;
+    border: 5px;
+    position: absolute;
+    right: 200px;
+}
+
+
+
+.patrick-2-container figcaption {
+    font-size: 20px;
+    font-style: italic;
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top: 5px;
+}
+
+.moreinfo-container {
+    border-bottom: 4px solid aliceblue;
+}
+
+.moreinfo-container a {
+    color: blue;
+    text-decoration: none;
+}
